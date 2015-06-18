@@ -1,3 +1,6 @@
 Mercury
 Deus
+Earth
+Jupiter
+Neptune
 #TODO Add more planets
