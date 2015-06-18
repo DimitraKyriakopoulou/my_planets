@@ -2,5 +2,5 @@ Mercury
 Deus
 Earth
 Jupiter
-Neptune
+qNeptune
 #TODO Add more planets
